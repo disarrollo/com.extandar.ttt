@@ -1,0 +1,40 @@
+{
+    "id": 1700456807,
+    "readable": true,
+    "title": "Drops the Light Drip",
+    "title_short": "Drops the Light Drip",
+    "title_version": "",
+    "link": "https://www.deezer.com/track/1700456807",
+    "duration": 120,
+    "rank": 100000,
+    "explicit_lyrics": false,
+    "explicit_content_lyrics": 0,
+    "explicit_content_cover": 2,
+    "preview": "https://cdns-preview-8.dzcdn.net/stream/c-865098d7cf315c1922a5121b94d66c52-2.mp3",
+    "md5_image": "9cc49b6c6332c21d5328e9aace21a613",
+    "artist": {
+        "id": 9917684,
+        "name": "Carl Bikkem",
+        "link": "https://www.deezer.com/artist/9917684",
+        "picture": "https://api.deezer.com/artist/9917684/image",
+        "picture_small": "https://e-cdns-images.dzcdn.net/images/artist//56x56-000000-80-0-0.jpg",
+        "picture_medium": "https://e-cdns-images.dzcdn.net/images/artist//250x250-000000-80-0-0.jpg",
+        "picture_big": "https://e-cdns-images.dzcdn.net/images/artist//500x500-000000-80-0-0.jpg",
+        "picture_xl": "https://e-cdns-images.dzcdn.net/images/artist//1000x1000-000000-80-0-0.jpg",
+        "tracklist": "https://api.deezer.com/artist/9917684/top?limit=50",
+        "type": "artist"
+    },
+    "album": {
+        "id": 306408657,
+        "title": "Quiteland (Meditation and Chill Soul Music)",
+        "cover": "https://api.deezer.com/album/306408657/image",
+        "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/9cc49b6c6332c21d5328e9aace21a613/56x56-000000-80-0-0.jpg",
+        "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/9cc49b6c6332c21d5328e9aace21a613/250x250-000000-80-0-0.jpg",
+        "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/9cc49b6c6332c21d5328e9aace21a613/500x500-000000-80-0-0.jpg",
+        "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/9cc49b6c6332c21d5328e9aace21a613/1000x1000-000000-80-0-0.jpg",
+        "md5_image": "9cc49b6c6332c21d5328e9aace21a613",
+        "tracklist": "https://api.deezer.com/album/306408657/tracks",
+        "type": "album"
+    },
+    "type": "track"
+}
